@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Goal
+The goal of this project was to learn how to use AngularJS in a Ruby On Rails project. I enjoy it to use only css for the front.
 
-Things you may want to cover:
+## Project
+- Ruby On Rails
+- AngularJS
+- CSS
 
-* Ruby version
+## Gems
+- angularjs-rails
+- responders
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Sources
+- https://www.nopio.com/blog/angularjs-rubyonrails-tutorial/
+- https://www.honeybadger.io/blog/beginners-guide-to-angular-js-rails/
+- https://developer.mozilla.org/fr/docs/Web/CSS
