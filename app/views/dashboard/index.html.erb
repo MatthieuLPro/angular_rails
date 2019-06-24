@@ -10,7 +10,7 @@
 		</h2>
 	</div>
 	<div class="section-search">
-		<input type="text" ng-model="search" placeholder="Type search phrase here..." />
+		 <input ng-change="filterEvents()" type="text" id="search" class="form-control" ng-model="search" placeholder="Type search phrase here..." />
 	</div>
 	<div class="section-add">
 		<form ng-submit="addEvent()">
@@ -34,7 +34,7 @@
 				</tr>
 			</thead>
 			<tbody>
-				<tr ng-repeat="event in events | filter : search">
+				<tr ng-repeat="event in events">
 					<td>{{event.name}}</td>
 					<td>{{event.event_date}}</td>
 					<td>{{event.description}}</td>

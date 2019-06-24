@@ -1,7 +1,7 @@
 # README
 
 ## Goal
-The goal of this project was to learn how to use AngularJS in a Ruby On Rails project. I enjoy it to use only css for the front.
+The purpose of this project was to learn how to use AngularJS in a Ruby On Rails project. I enjoy it to use only css for the front.
 
 ## Project
 - Ruby On Rails
